@@ -67,6 +67,6 @@
     		"clearnet": "https://dumb.artemislena.eu",
     		"tor": "http://dumb.lpoaj7z2zkajuhgnlltpeqh3zyq7wk2iyeggqaduhgxhyajtdt2j7wad.onion",
     		"country": "DE",
-    		"cdb": false
+    		"cdn": false
 	}
 ]
